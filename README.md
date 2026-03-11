@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Voici mes liens :
+<!doctype=html>
 <a href="https://scratch.mit.edu/users/A-et-S/">
 <img src="https://seeklogo.com/images/S/scratch-logo-B13B10E544-seeklogo.com.png", alt="scratch">
 </a>
